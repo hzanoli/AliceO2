@@ -178,8 +178,8 @@ struct QATrackingResolution {
       auto trackParameter = getTrackParCov(track);
       trackParameter.propagateToDCA(primaryVertex, magneticField, &dca);
 
-      double impact_parameter = 1000*dca.getY();
-      double impact_parameter_error = 1000*std::sqrt(dca.getSigmaY2());
+      double impact_parameter = 1000 * dca.getY();
+      double impact_parameter_error = 1000 * std::sqrt(dca.getSigmaY2());
 
       impactParameterVsPt->Fill(track.pt(), impact_parameter);
       impactParameterVsEta->Fill(track.eta(), impact_parameter);
