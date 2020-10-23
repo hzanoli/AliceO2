@@ -1,0 +1,17 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Tracking/src/TrackFinderOriginal.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MCH/Tracking/src/TrackFinderOriginal.cxx">
+<area shape="rect" id="node2" href="$d7/d7f/TrackFinderOriginal_8h.html" title="Definition of a class to reconstruct tracks with the original algorithm. " alt="" coords="311,124,470,151"/>
+<area shape="rect" id="node18" href="$db/d4b/MagneticField_8h.html" title="Definition of the MagF class. " alt="" coords="944,124,1101,151"/>
+<area shape="rect" id="node42" href="$d8/d9c/TrackExtrap_8h.html" title="Definition of tools for track extrapolation. " alt="" coords="633,124,743,151"/>
+<area shape="rect" id="node4" href="$d3/d5c/Detectors_2MUON_2MCH_2Tracking_2include_2MCHTracking_2Cluster_8h.html" title="MCHTracking/Cluster.h" alt="" coords="331,348,498,375"/>
+<area shape="rect" id="node8" href="$df/d7a/Detectors_2MUON_2MCH_2Tracking_2include_2MCHTracking_2Track_8h.html" title="MCHTracking/Track.h" alt="" coords="210,273,366,300"/>
+<area shape="rect" id="node14" href="$de/d6b/MUON_2MCH_2Tracking_2src_2TrackFitter_8h.html" title="TrackFitter.h" alt="" coords="341,199,441,225"/>
+<area shape="rect" id="node7" href="$d3/db8/ClusterBlock_8h.html" title="Definition of the MCH cluster minimal structure. " alt="" coords="245,430,427,457"/>
+<area shape="rect" id="node11" href="$de/d4b/TrackParam_8h.html" title="Definition of the MCH track parameters for internal use. " alt="" coords="43,348,240,375"/>
+<area shape="rect" id="node13" href="$d6/d45/TrackBlock_8h.html" title="Definition of the MCH track parameters minimal structure. " alt="" coords="49,430,220,457"/>
+<area shape="rect" id="node20" href="$d3/d91/MagFieldParam_8h.html" title="Definition of the MagFieldParam: container for ALICE mag. field parameters. " alt="" coords="939,199,1106,225"/>
+<area shape="rect" id="node23" href="$dd/dfb/MagneticWrapperChebyshev_8h.html" title="Field/MagneticWrapperChebyshev.h" alt="" coords="1246,199,1498,225"/>
+<area shape="rect" id="node30" href="$da/df4/MagFieldFast_8h.html" title="Definition of the fast magnetic field parametrization MagFieldFast. " alt="" coords="1713,273,1863,300"/>
+<area shape="rect" id="node26" href="$d8/d64/Chebyshev3D_8h.html" title="MathUtils/Chebyshev3D.h" alt="" coords="1158,273,1349,300"/>
+<area shape="rect" id="node28" href="$d4/d08/Chebyshev3DCalc_8h.html" title="MathUtils/Chebyshev3DCalc.h" alt="" coords="1273,348,1492,375"/>
+<area shape="rect" id="node31" href="$dc/d73/Cartesian_8h.html" title="MathUtils/Cartesian.h" alt="" coords="2407,348,2569,375"/>
+</map>

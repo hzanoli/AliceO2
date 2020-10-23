@@ -1,0 +1,26 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ZDC/simulation/include/ZDCSimulation/Detector.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ZDC/simulation/include/ZDCSimulation/Detector.h">
+<area shape="rect" id="node5" href="$db/dcc/Detectors_2Base_2include_2DetectorsBase_2GeometryManager_8h.html" title="DetectorsBase/GeometryManager.h" alt="" coords="1270,124,1523,151"/>
+<area shape="rect" id="node12" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="1777,199,2005,240"/>
+<area shape="rect" id="node52" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="3356,206,3544,233"/>
+<area shape="rect" id="node71" href="$db/d64/ZDC_2base_2include_2ZDCBase_2Geometry_8h.html" title="ZDCBase/Geometry.h" alt="" coords="3131,124,3292,151"/>
+<area shape="rect" id="node72" href="$dd/de7/Detectors_2ZDC_2simulation_2include_2ZDCSimulation_2Hit_8h.html" title="ZDCSimulation/Hit.h" alt="" coords="2911,124,3066,151"/>
+<area shape="rect" id="node74" href="$d9/de6/SpatialPhotonResponse_8h.html" title="Visualizing spatial photon response in ZDC neutron and proton calorimeters. " alt="" coords="4379,199,4593,240"/>
+<area shape="rect" id="node39" href="$dc/d73/Cartesian_8h.html" title="MathUtils/Cartesian.h" alt="" coords="2686,288,2849,315"/>
+<area shape="rect" id="node49" href="$db/dba/MatCell_8h.html" title="Declarations for material properties of the cell (voxel) " alt="" coords="1571,206,1753,233"/>
+<area shape="rect" id="node19" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="1501,288,1631,315"/>
+<area shape="rect" id="node31" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="757,288,927,315"/>
+<area shape="rect" id="node20" href="$de/def/bitOps_8h.html" title="MathUtils/detail/bitOps.h" alt="" coords="1115,370,1297,397"/>
+<area shape="rect" id="node21" href="$d3/dfc/StatAccumulator_8h.html" title="MathUtils/detail/StatAccumulator.h" alt="" coords="1322,370,1570,397"/>
+<area shape="rect" id="node23" href="$dd/d7d/trigonometric_8h.html" title="MathUtils/detail/trigonometric.h" alt="" coords="1594,370,1823,397"/>
+<area shape="rect" id="node25" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1341,541,1484,568"/>
+<area shape="rect" id="node28" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="1475,459,1628,486"/>
+<area shape="rect" id="node30" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="1653,459,1911,486"/>
+<area shape="rect" id="node26" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="1211,616,1409,643"/>
+<area shape="rect" id="node27" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1433,616,1598,643"/>
+<area shape="rect" id="node36" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="610,370,805,397"/>
+<area shape="rect" id="node50" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1656,288,1823,315"/>
+<area shape="rect" id="node57" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="3948,288,4189,315"/>
+<area shape="rect" id="node62" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="4561,370,4771,397"/>
+<area shape="rect" id="node68" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="2873,288,3086,315"/>
+<area shape="rect" id="node73" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="2683,199,2852,240"/>
+</map>

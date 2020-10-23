@@ -1,0 +1,47 @@
+digraph "Run3Matcher"
+{
+ // INTERACTIVE_SVG=YES
+  bgcolor="transparent";
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="{Run3Matcher\n||+ init()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +matched_s" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node2 [label="{o2::framework::Builds\l\< aod::Run3MatchedSparse \>\n||+ operator-\>()\l+ operator*()\l+ asArrowTable()\l+ pack()\l+ build()\l}",height=0.2,width=0.4,color="black",URL="$d5/df4/structo2_1_1framework_1_1Builds.html"];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node3 [label="{o2::framework::TableTransform\l\< aod::MetadataTrait\< aod\l::Run3MatchedSparse \>::metadata \>\n||+ sources_pack()\l+ base_spec()\l+ base_specs_impl()\l+ base_specs()\l+ spec()\l+ output()\l+ ref()\l}",height=0.2,width=0.4,color="black",URL="$d6/dec/structo2_1_1framework_1_1TableTransform.html"];
+  Node4 -> Node3 [dir="back",color="orange",fontsize="10",style="solid",label=" \< aod::MetadataTrait\l\< aod::Run3MatchedSparse\l \>::metadata \>" ,fontname="Helvetica"];
+  Node4 [label="{o2::framework::TableTransform\l\< METADATA \>\n||+ sources_pack()\l+ base_spec()\l+ base_specs_impl()\l+ base_specs()\l+ spec()\l+ output()\l+ ref()\l}",height=0.2,width=0.4,color="black",URL="$d6/dec/structo2_1_1framework_1_1TableTransform.html",tooltip="Helper template for table transformations. "];
+  Node5 -> Node2 [color="grey25",fontsize="10",style="solid",label=" +table" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node5 [label="{shared_ptr\< aod::Run3Matched\lSparse \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node6 -> Node2 [dir="back",color="orange",fontsize="10",style="solid",label=" \< aod::Run3MatchedSparse \>" ,fontname="Helvetica"];
+  Node6 [label="{o2::framework::Builds\l\< T, IP \>\n||+ operator-\>()\l+ operator*()\l+ asArrowTable()\l+ pack()\l+ build()\l}",height=0.2,width=0.4,color="black",URL="$d5/df4/structo2_1_1framework_1_1Builds.html",tooltip="This helper struct allows you to declare index tables to be created in a task. "];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node7 [label="{o2::framework::TableTransform\l\< aod::MetadataTrait\< T \>\l::metadata \>\n||+ sources_pack()\l+ base_spec()\l+ base_specs_impl()\l+ base_specs()\l+ spec()\l+ output()\l+ ref()\l}",height=0.2,width=0.4,color="black",URL="$d6/dec/structo2_1_1framework_1_1TableTransform.html"];
+  Node4 -> Node7 [dir="back",color="orange",fontsize="10",style="solid",label=" \< aod::MetadataTrait\l\< T \>::metadata \>" ,fontname="Helvetica"];
+  Node8 -> Node6 [color="grey25",fontsize="10",style="solid",label=" +table" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node8 [label="{shared_ptr\< T \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node9 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +matched_e" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node9 [label="{o2::framework::Builds\l\< aod::Run3MatchedExclusive \>\n||+ operator-\>()\l+ operator*()\l+ asArrowTable()\l+ pack()\l+ build()\l}",height=0.2,width=0.4,color="black",URL="$d5/df4/structo2_1_1framework_1_1Builds.html"];
+  Node10 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node10 [label="{o2::framework::TableTransform\l\< aod::MetadataTrait\< aod\l::Run3MatchedExclusive \>::\lmetadata \>\n||+ sources_pack()\l+ base_spec()\l+ base_specs_impl()\l+ base_specs()\l+ spec()\l+ output()\l+ ref()\l}",height=0.2,width=0.4,color="black",URL="$d6/dec/structo2_1_1framework_1_1TableTransform.html"];
+  Node4 -> Node10 [dir="back",color="orange",fontsize="10",style="solid",label=" \< aod::MetadataTrait\l\< aod::Run3MatchedExclusive\l \>::metadata \>" ,fontname="Helvetica"];
+  Node11 -> Node9 [color="grey25",fontsize="10",style="solid",label=" +table" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node11 [label="{shared_ptr\< aod::Run3Matched\lExclusive \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node6 -> Node9 [dir="back",color="orange",fontsize="10",style="solid",label=" \< aod::Run3MatchedExclusive \>" ,fontname="Helvetica"];
+  Node12 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +bc_e" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node12 [label="{o2::framework::Builds\l\< aod::BCCollisionsExclusive \>\n||+ operator-\>()\l+ operator*()\l+ asArrowTable()\l+ pack()\l+ build()\l}",height=0.2,width=0.4,color="black",URL="$d5/df4/structo2_1_1framework_1_1Builds.html"];
+  Node13 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node13 [label="{o2::framework::TableTransform\l\< aod::MetadataTrait\< aod\l::BCCollisionsExclusive \>\l::metadata \>\n||+ sources_pack()\l+ base_spec()\l+ base_specs_impl()\l+ base_specs()\l+ spec()\l+ output()\l+ ref()\l}",height=0.2,width=0.4,color="black",URL="$d6/dec/structo2_1_1framework_1_1TableTransform.html"];
+  Node4 -> Node13 [dir="back",color="orange",fontsize="10",style="solid",label=" \< aod::MetadataTrait\l\< aod::BCCollisionsExclusive\l \>::metadata \>" ,fontname="Helvetica"];
+  Node14 -> Node12 [color="grey25",fontsize="10",style="solid",label=" +table" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node14 [label="{shared_ptr\< aod::BCCollisions\lExclusive \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node6 -> Node12 [dir="back",color="orange",fontsize="10",style="solid",label=" \< aod::BCCollisionsExclusive \>" ,fontname="Helvetica"];
+  Node15 -> Node1 [color="grey25",fontsize="10",style="solid",label=" +bc" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node15 [label="{o2::framework::Builds\l\< aod::BCCollisionsSparse \>\n||+ operator-\>()\l+ operator*()\l+ asArrowTable()\l+ pack()\l+ build()\l}",height=0.2,width=0.4,color="black",URL="$d5/df4/structo2_1_1framework_1_1Builds.html"];
+  Node16 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",arrowtail="onormal",fontname="Helvetica"];
+  Node16 [label="{o2::framework::TableTransform\l\< aod::MetadataTrait\< aod\l::BCCollisionsSparse \>::metadata \>\n||+ sources_pack()\l+ base_spec()\l+ base_specs_impl()\l+ base_specs()\l+ spec()\l+ output()\l+ ref()\l}",height=0.2,width=0.4,color="black",URL="$d6/dec/structo2_1_1framework_1_1TableTransform.html"];
+  Node4 -> Node16 [dir="back",color="orange",fontsize="10",style="solid",label=" \< aod::MetadataTrait\l\< aod::BCCollisionsSparse\l \>::metadata \>" ,fontname="Helvetica"];
+  Node17 -> Node15 [color="grey25",fontsize="10",style="solid",label=" +table" ,arrowhead="odiamond",fontname="Helvetica"];
+  Node17 [label="{shared_ptr\< aod::BCCollisions\lSparse \>\n||}",height=0.2,width=0.4,color="grey75"];
+  Node6 -> Node15 [dir="back",color="orange",fontsize="10",style="solid",label=" \< aod::BCCollisionsSparse \>" ,fontname="Helvetica"];
+}

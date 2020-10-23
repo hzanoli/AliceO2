@@ -1,0 +1,33 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/ZDC/simulation/src/Detector.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/ZDC/simulation/src/Detector.cxx">
+<area shape="rect" id="node5" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="4324,399,4565,426"/>
+<area shape="rect" id="node11" href="$d4/d03/simulation_2include_2SimulationDataFormat_2Stack_8h.html" title="SimulationDataFormat\l/Stack.h" alt="" coords="1461,124,1630,165"/>
+<area shape="rect" id="node53" href="$de/d29/ZDC_2simulation_2include_2ZDCSimulation_2Detector_8h.html" title="ZDCSimulation/Detector.h" alt="" coords="2404,131,2594,158"/>
+<area shape="rect" id="node82" href="$dd/de7/Detectors_2ZDC_2simulation_2include_2ZDCSimulation_2Hit_8h.html" title="ZDCSimulation/Hit.h" alt="" coords="3827,221,3982,247"/>
+<area shape="rect" id="node92" href="$d2/d82/ZDCSimParam_8h.html" title="ZDCSimulation/ZDCSimParam.h" alt="" coords="4628,131,4858,158"/>
+<area shape="rect" id="node99" href="$d3/dd7/Detectors_2ZDC_2base_2include_2ZDCBase_2Constants_8h.html" title="ZDCBase/Constants.h" alt="" coords="64,310,227,337"/>
+<area shape="rect" id="node12" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="1848,303,2076,344"/>
+<area shape="rect" id="node35" href="$d2/de2/MCTrack_8h.html" title="Definition of the MCTrack class. " alt="" coords="804,213,973,255"/>
+<area shape="rect" id="node43" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="252,303,421,344"/>
+<area shape="rect" id="node47" href="$d5/dbe/TrackReference_8h.html" title="SimulationDataFormat\l/TrackReference.h" alt="" coords="1400,213,1569,255"/>
+<area shape="rect" id="node50" href="$d6/d9d/MCEventStats_8h.html" title="SimulationDataFormat\l/MCEventStats.h" alt="" coords="1645,213,1814,255"/>
+<area shape="rect" id="node20" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="971,399,1102,426"/>
+<area shape="rect" id="node26" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="1177,399,1346,426"/>
+<area shape="rect" id="node21" href="$de/def/bitOps_8h.html" title="MathUtils/detail/bitOps.h" alt="" coords="705,489,888,515"/>
+<area shape="rect" id="node22" href="$d3/dfc/StatAccumulator_8h.html" title="MathUtils/detail/StatAccumulator.h" alt="" coords="912,489,1160,515"/>
+<area shape="rect" id="node23" href="$dd/d7d/trigonometric_8h.html" title="MathUtils/detail/trigonometric.h" alt="" coords="1326,489,1555,515"/>
+<area shape="rect" id="node25" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="2548,571,2690,597"/>
+<area shape="rect" id="node32" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="1670,489,1864,515"/>
+<area shape="rect" id="node44" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="2098,399,2265,426"/>
+<area shape="rect" id="node55" href="$db/dcc/Detectors_2Base_2include_2DetectorsBase_2GeometryManager_8h.html" title="DetectorsBase/GeometryManager.h" alt="" coords="2859,221,3112,247"/>
+<area shape="rect" id="node71" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="3630,310,3818,337"/>
+<area shape="rect" id="node81" href="$db/d64/ZDC_2base_2include_2ZDCBase_2Geometry_8h.html" title="ZDCBase/Geometry.h" alt="" coords="2026,221,2188,247"/>
+<area shape="rect" id="node84" href="$d9/de6/SpatialPhotonResponse_8h.html" title="Visualizing spatial photon response in ZDC neutron and proton calorimeters. " alt="" coords="2480,303,2694,344"/>
+<area shape="rect" id="node60" href="$dc/d73/Cartesian_8h.html" title="MathUtils/Cartesian.h" alt="" coords="4086,399,4248,426"/>
+<area shape="rect" id="node69" href="$db/dba/MatCell_8h.html" title="Declarations for material properties of the cell (voxel) " alt="" coords="2718,310,2901,337"/>
+<area shape="rect" id="node76" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="2750,489,2960,515"/>
+<area shape="rect" id="node78" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="3848,399,4062,426"/>
+<area shape="rect" id="node83" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="4142,303,4312,344"/>
+<area shape="rect" id="node93" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="4632,303,4830,344"/>
+<area shape="rect" id="node96" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="4787,213,4984,255"/>
+<area shape="rect" id="node100" href="$d3/d9d/PhysicsConstants_8h.html" title="Header to collect physics constants. " alt="" coords="38,399,314,426"/>
+</map>

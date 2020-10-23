@@ -1,0 +1,9 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Workflow/include" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/MUON/MID/Workflow/include">
+<area shape="rect" id="node2" href="dir_8da4417866e9b101c8c6992e70f49dba.html" title="MIDWorkflow" alt="" coords="41,63,148,111"/>
+<area shape="rect" id="node3" href="dir_ec47f4617e2325ef786d87078c97382a.html" title="CTF" alt="" coords="5,159,77,207"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000404_000486.html" title="2" alt="" coords="66,139,76,154"/>
+<area shape="rect" id="node4" href="dir_bcbb2cf9a3d3d83e5515c82071a07177.html" title="Framework" alt="" coords="102,159,197,207"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000404_000063.html" title="17" alt="" coords="125,131,142,146"/>
+<area shape="rect" id="clust2" href="dir_2bb5eb61d33140858f79122ad9ee2c7f.html" alt="" coords="31,52,255,121"/>
+<area shape="rect" id="clust1" href="dir_541a9f579a56d3c8f641580c9f97913d.html" title="Workflow" alt="" coords="20,16,265,132"/>
+</map>

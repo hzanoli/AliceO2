@@ -1,0 +1,16 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/include/TPCBase/Mapper.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/include/TPCBase/Mapper.h">
+<area shape="rect" id="node7" href="$d1/d73/Defs_8h.html" title="DataFormatsTPC/Defs.h" alt="" coords="1167,423,1344,449"/>
+<area shape="rect" id="node9" href="$dc/d73/Cartesian_8h.html" title="MathUtils/Cartesian.h" alt="" coords="1311,497,1474,524"/>
+<area shape="rect" id="node20" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="879,273,1021,300"/>
+<area shape="rect" id="node21" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="772,199,936,225"/>
+<area shape="rect" id="node22" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="980,348,1115,375"/>
+<area shape="rect" id="node24" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="1209,199,1379,225"/>
+<area shape="rect" id="node26" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="1030,124,1179,151"/>
+<area shape="rect" id="node28" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="1799,348,1943,375"/>
+<area shape="rect" id="node29" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="646,124,833,151"/>
+<area shape="rect" id="node30" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="1769,124,1944,151"/>
+<area shape="rect" id="node8" href="$d1/da8/GPUROOTCartesianFwd_8h.html" title="GPUROOTCartesianFwd.h" alt="" coords="1101,497,1287,524"/>
+<area shape="rect" id="node23" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="931,423,1143,449"/>
+<area shape="rect" id="node25" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="1095,273,1218,300"/>
+<area shape="rect" id="node27" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="1062,199,1185,225"/>
+</map>

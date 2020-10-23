@@ -1,0 +1,29 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/HMPID/simulation/src/Detector.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/HMPID/simulation/src/Detector.cxx">
+<area shape="rect" id="node2" href="$df/d79/HMPID_2simulation_2include_2HMPIDSimulation_2Detector_8h.html" title="HMPIDSimulation/Detector.h" alt="" coords="1043,131,1250,158"/>
+<area shape="rect" id="node10" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="345,392,586,419"/>
+<area shape="rect" id="node40" href="$de/d16/Param_8h.html" title="HMPIDBase/Param.h" alt="" coords="864,131,1019,158"/>
+<area shape="rect" id="node60" href="$d4/d03/simulation_2include_2SimulationDataFormat_2Stack_8h.html" title="SimulationDataFormat\l/Stack.h" alt="" coords="2807,124,2977,165"/>
+<area shape="rect" id="node93" href="$d5/dbe/TrackReference_8h.html" title="SimulationDataFormat\l/TrackReference.h" alt="" coords="3242,213,3411,255"/>
+<area shape="rect" id="node4" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="1057,310,1245,337"/>
+<area shape="rect" id="node29" href="$d5/deb/Detectors_2HMPID_2base_2include_2HMPIDBase_2Hit_8h.html" title="HMPIDBase/Hit.h" alt="" coords="1255,221,1387,247"/>
+<area shape="rect" id="node19" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="2368,474,2579,501"/>
+<area shape="rect" id="node25" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="1736,392,1949,419"/>
+<area shape="rect" id="node30" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="1269,303,1438,344"/>
+<area shape="rect" id="node31" href="$dc/d73/Cartesian_8h.html" title="MathUtils/Cartesian.h" alt="" coords="1448,392,1611,419"/>
+<area shape="rect" id="node61" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="2551,303,2779,344"/>
+<area shape="rect" id="node85" href="$d2/de2/MCTrack_8h.html" title="Definition of the MCTrack class. " alt="" coords="2314,213,2483,255"/>
+<area shape="rect" id="node90" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="3051,303,3221,344"/>
+<area shape="rect" id="node95" href="$d6/d9d/MCEventStats_8h.html" title="SimulationDataFormat\l/MCEventStats.h" alt="" coords="2855,213,3025,255"/>
+<area shape="rect" id="node66" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="3944,392,4075,419"/>
+<area shape="rect" id="node78" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="3199,392,3369,419"/>
+<area shape="rect" id="node67" href="$de/def/bitOps_8h.html" title="MathUtils/detail/bitOps.h" alt="" coords="3786,474,3969,501"/>
+<area shape="rect" id="node68" href="$d3/dfc/StatAccumulator_8h.html" title="MathUtils/detail/StatAccumulator.h" alt="" coords="3993,474,4241,501"/>
+<area shape="rect" id="node70" href="$dd/d7d/trigonometric_8h.html" title="MathUtils/detail/trigonometric.h" alt="" coords="4265,474,4495,501"/>
+<area shape="rect" id="node72" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="4105,645,4247,672"/>
+<area shape="rect" id="node75" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="4189,563,4342,590"/>
+<area shape="rect" id="node77" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="4417,563,4676,590"/>
+<area shape="rect" id="node73" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="3975,720,4172,747"/>
+<area shape="rect" id="node74" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="4196,720,4361,747"/>
+<area shape="rect" id="node82" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="3023,474,3217,501"/>
+<area shape="rect" id="node91" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="2957,392,3123,419"/>
+</map>

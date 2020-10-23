@@ -1,0 +1,17 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/src/DigitPos.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/base/src/DigitPos.cxx">
+<area shape="rect" id="node2" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="688,199,837,225"/>
+<area shape="rect" id="node23" href="$d5/d1d/TPC_2base_2include_2TPCBase_2Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="1238,124,1381,151"/>
+<area shape="rect" id="node3" href="$d1/d73/Defs_8h.html" title="DataFormatsTPC/Defs.h" alt="" coords="851,497,1029,524"/>
+<area shape="rect" id="node17" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="527,273,649,300"/>
+<area shape="rect" id="node21" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="999,348,1140,375"/>
+<area shape="rect" id="node22" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="674,273,838,300"/>
+<area shape="rect" id="node5" href="$d1/da8/GPUROOTCartesianFwd_8h.html" title="GPUROOTCartesianFwd.h" alt="" coords="839,572,1025,599"/>
+<area shape="rect" id="node6" href="$dc/d73/Cartesian_8h.html" title="MathUtils/Cartesian.h" alt="" coords="1049,572,1212,599"/>
+<area shape="rect" id="node18" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="577,423,711,449"/>
+<area shape="rect" id="node20" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="787,348,909,375"/>
+<area shape="rect" id="node19" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="538,497,750,524"/>
+<area shape="rect" id="node28" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="862,273,1031,300"/>
+<area shape="rect" id="node29" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="1941,423,2085,449"/>
+<area shape="rect" id="node30" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="1035,199,1221,225"/>
+<area shape="rect" id="node31" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="1483,199,1658,225"/>
+</map>

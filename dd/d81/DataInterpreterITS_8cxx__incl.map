@@ -1,0 +1,48 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/EventVisualisation/Detectors/src/DataInterpreterITS.cxx" name="/home/travis/build/AliceO2Group/AliceO2/EventVisualisation/Detectors/src/DataInterpreterITS.cxx">
+<area shape="rect" id="node2" href="$db/d9e/ConfigurationManager_8h.html" title="EventVisualisationBase\l/ConfigurationManager.h" alt="" coords="1775,124,1955,165"/>
+<area shape="rect" id="node4" href="$d9/d95/DataInterpreterITS_8h.html" title="converting ITS data to Event Visualisation primitives " alt="" coords="173,303,379,344"/>
+<area shape="rect" id="node8" href="$d0/d35/VisualisationEvent_8h.html" title="EventVisualisationDataConverter\l/VisualisationEvent.h" alt="" coords="361,481,599,523"/>
+<area shape="rect" id="node18" href="$d1/d71/TrackITS_8h.html" title="Definition of the ITS track. " alt="" coords="2410,131,2606,158"/>
+<area shape="rect" id="node75" href="$d1/d62/DataFormats_2Detectors_2ITSMFT_2common_2include_2DataFormatsITSMFT_2Cluster_8h.html" title="DataFormatsITSMFT/Cluster.h" alt="" coords="2213,310,2427,337"/>
+<area shape="rect" id="node76" href="$d0/dc6/ITSMFT_2common_2include_2DataFormatsITSMFT_2ROFRecord_8h.html" title="DataFormatsITSMFT/ROFRecord.h" alt="" coords="2630,131,2869,158"/>
+<area shape="rect" id="node80" href="$d9/dfb/ITSMFT_2ITS_2base_2include_2ITSBase_2GeometryTGeo_8h.html" title="ITSBase/GeometryTGeo.h" alt="" coords="2081,399,2271,426"/>
+<area shape="rect" id="node5" href="$dd/dbf/DataInterpreter_8h.html" title="EventVisualisationBase\l/DataInterpreter.h" alt="" coords="189,392,363,433"/>
+<area shape="rect" id="node6" href="$d6/d7c/VisualisationConstants_8h.html" title="EventVisualisationBase\l/VisualisationConstants.h" alt="" coords="5,481,192,523"/>
+<area shape="rect" id="node9" href="$d0/d40/VisualisationTrack_8h.html" title="EventVisualisationDataConverter\l/VisualisationTrack.h" alt="" coords="259,660,498,701"/>
+<area shape="rect" id="node15" href="$d5/d20/VisualisationCluster_8h.html" title="EventVisualisationDataConverter\l/VisualisationCluster.h" alt="" coords="310,571,549,612"/>
+<area shape="rect" id="node10" href="$de/ddf/ConversionConstants_8h.html" title="ConversionConstants.h" alt="" coords="391,757,563,783"/>
+<area shape="rect" id="node19" href="$d7/d8b/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2Track_8h.html" title="ReconstructionDataFormats\l/Track.h" alt="" coords="2684,213,2887,255"/>
+<area shape="rect" id="node74" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="2911,221,3191,247"/>
+<area shape="rect" id="node20" href="$d2/d98/TrackParametrization_8h.html" title="ReconstructionDataFormats\l/TrackParametrization.h" alt="" coords="3875,392,4077,433"/>
+<area shape="rect" id="node73" href="$d3/d30/TrackParametrizationWithError_8h.html" title="ReconstructionDataFormats\l/TrackParametrizationWithError.h" alt="" coords="3571,303,3805,344"/>
+<area shape="rect" id="node21" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="4197,757,4363,783"/>
+<area shape="rect" id="node26" href="$d4/de2/BaseCluster_8h.html" title="ReconstructionDataFormats\l/BaseCluster.h" alt="" coords="3385,481,3588,523"/>
+<area shape="rect" id="node49" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="4489,757,4620,783"/>
+<area shape="rect" id="node58" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="4641,913,4900,940"/>
+<area shape="rect" id="node65" href="$d8/d77/Primitive2D_8h.html" title="Declarations of 2D primitives. " alt="" coords="4466,489,4643,515"/>
+<area shape="rect" id="node69" href="$d5/d08/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2PID_8h.html" title="ReconstructionDataFormats\l/PID.h" alt="" coords="4013,481,4216,523"/>
+<area shape="rect" id="node71" href="$d2/d97/TrackUtils_8h.html" title="ReconstructionDataFormats\l/TrackUtils.h" alt="" coords="4693,660,4896,701"/>
+<area shape="rect" id="node72" href="$d1/da8/GPUROOTCartesianFwd_8h.html" title="GPUROOTCartesianFwd.h" alt="" coords="4801,489,4988,515"/>
+<area shape="rect" id="node27" href="$dc/d73/Cartesian_8h.html" title="MathUtils/Cartesian.h" alt="" coords="2991,667,3153,694"/>
+<area shape="rect" id="node40" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="2654,571,2882,612"/>
+<area shape="rect" id="node41" href="$df/d5b/GPUCommonLogger_8h.html" title="GPUCommonLogger.h" alt="" coords="3369,667,3533,694"/>
+<area shape="rect" id="node44" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="2214,660,2442,701"/>
+<area shape="rect" id="node59" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="1167,757,1337,783"/>
+<area shape="rect" id="node50" href="$de/def/bitOps_8h.html" title="MathUtils/detail/bitOps.h" alt="" coords="3938,839,4121,865"/>
+<area shape="rect" id="node51" href="$d3/dfc/StatAccumulator_8h.html" title="MathUtils/detail/StatAccumulator.h" alt="" coords="4551,839,4799,865"/>
+<area shape="rect" id="node53" href="$dd/d7d/trigonometric_8h.html" title="MathUtils/detail/trigonometric.h" alt="" coords="4297,839,4527,865"/>
+<area shape="rect" id="node54" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="4214,988,4357,1015"/>
+<area shape="rect" id="node57" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="4197,913,4350,940"/>
+<area shape="rect" id="node55" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="4084,1063,4281,1089"/>
+<area shape="rect" id="node56" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="4305,1063,4471,1089"/>
+<area shape="rect" id="node63" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="953,839,1148,865"/>
+<area shape="rect" id="node66" href="$d6/d9b/CircleXY_8h.html" title="MathUtils/detail/CircleXY.h" alt="" coords="4325,667,4517,694"/>
+<area shape="rect" id="node67" href="$da/d66/IntervalXY_8h.html" title="MathUtils/detail/IntervalXY.h" alt="" coords="4681,578,4887,605"/>
+<area shape="rect" id="node68" href="$d4/d5d/Bracket_8h.html" title="Class to represent an interval and some operations over it. " alt="" coords="4365,578,4555,605"/>
+<area shape="rect" id="node70" href="$d3/d9d/PhysicsConstants_8h.html" title="Header to collect physics constants. " alt="" coords="4065,578,4341,605"/>
+<area shape="rect" id="node77" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="4971,660,5203,701"/>
+<area shape="rect" id="node78" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="5025,757,5279,783"/>
+<area shape="rect" id="node81" href="$db/dcc/Detectors_2Base_2include_2DetectorsBase_2GeometryManager_8h.html" title="DetectorsBase/GeometryManager.h" alt="" coords="1463,578,1716,605"/>
+<area shape="rect" id="node90" href="$d4/d5c/ITSMFT_2common_2base_2include_2ITSMFTBase_2GeometryTGeo_8h.html" title="ITSMFTBase/GeometryTGeo.h" alt="" coords="1183,489,1398,515"/>
+<area shape="rect" id="node88" href="$db/dba/MatCell_8h.html" title="Declarations for material properties of the cell (voxel) " alt="" coords="1955,667,2138,694"/>
+</map>

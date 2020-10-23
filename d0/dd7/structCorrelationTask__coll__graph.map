@@ -1,0 +1,12 @@
+<map id="CorrelationTask" name="CorrelationTask">
+<area shape="rect" id="node2" href="$db/d2d/structCorrelationTask_1_1QA.html" title="{CorrelationTask::QA\n||}" alt="" coords="129,833,279,910"/>
+<area shape="rect" id="node5" href="$db/d0d/classPairCuts.html" title="{PairCuts\n||+ SetPairCut()\l+ SetTwoTrackCuts()\l+ conversionCuts()\l+ twoTrackCut()\l# conversionCut()\l# getInvMassSquared()\l# getInvMassSquaredFast()\l# getDPhiStar()\l}" alt="" coords="628,781,828,961"/>
+<area shape="rect" id="node6" href="$d4/dc3/classfloat.html" title="{float\n||}" alt="" coords="815,476,865,553"/>
+<area shape="rect" id="node7" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\l\&lt; CorrelationContainer \&gt;\n||+ spec()\l+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="1381,752,1571,991"/>
+<area shape="rect" id="node17" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\&lt; T \&gt;\n||+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ spec()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="1965,403,2195,627"/>
+<area shape="rect" id="node19" href="$d4/d79/structo2_1_1framework_1_1OutputObj.html" title="{o2::framework::OutputObj\l\&lt; TH3F \&gt;\n||+ spec()\l+ OutputObj()\l+ OutputObj()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setObject()\l+ setHash()\l+ operator&#45;\&gt;()\l+ operator*()\l+ ref()\l}" alt="" coords="2190,752,2381,991"/>
+<area shape="rect" id="node9" href="$d3/d87/classuint32__t.html" title="{uint32_t\n||}" alt="" coords="2307,226,2381,303"/>
+<area shape="rect" id="node13" href="$da/d96/structo2_1_1framework_1_1InputSpec.html" title="{o2::framework::InputSpec\n||+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ InputSpec()\l+ operator==()\l}" alt="" coords="2569,189,2759,340"/>
+<area shape="rect" id="node21" href="$de/dca/structCorrelationTask_1_1Config.html" title="{CorrelationTask::Config\n||}" alt="" coords="989,651,1161,728"/>
+<area shape="rect" id="node22" href="$d1/d9a/structo2_1_1framework_1_1expressions_1_1Filter.html" title="A struct, containing the root of the expression tree. " alt="" coords="2743,818,2945,925"/>
+</map>

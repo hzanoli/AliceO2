@@ -1,0 +1,36 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/test/testTPCFastTransform.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TPC/reconstruction/test/testTPCFastTransform.cxx">
+<area shape="rect" id="node3" href="$df/d4b/TPCFastTransformHelperO2_8h.html" title="class to create TPC fast transformation " alt="" coords="943,124,1142,165"/>
+<area shape="rect" id="node4" href="$d4/db1/TPCFastTransform_8h.html" title="Definition of TPCFastTransform class. " alt="" coords="654,221,805,247"/>
+<area shape="rect" id="node27" href="$d5/d1d/TPC_2base_2include_2TPCBase_2Mapper_8h.html" title="TPCBase/Mapper.h" alt="" coords="1879,131,2022,158"/>
+<area shape="rect" id="node31" href="$d1/d73/Defs_8h.html" title="DataFormatsTPC/Defs.h" alt="" coords="1729,556,1906,583"/>
+<area shape="rect" id="node45" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="1383,481,1518,508"/>
+<area shape="rect" id="node52" href="$da/d9d/PadRegionInfo_8h.html" title="TPCBase/PadRegionInfo.h" alt="" coords="2101,310,2288,337"/>
+<area shape="rect" id="node54" href="$db/dad/ParameterDetector_8h.html" title="Definition of the parameter class for the detector. " alt="" coords="2566,131,2783,158"/>
+<area shape="rect" id="node63" href="$d3/d47/ParameterElectronics_8h.html" title="Definition of the parameter class for the detector electronics. " alt="" coords="3019,131,3253,158"/>
+<area shape="rect" id="node65" href="$db/d5b/ParameterGas_8h.html" title="Definition of the parameter class for the detector gas. " alt="" coords="2808,131,2995,158"/>
+<area shape="rect" id="node5" href="$db/dff/FlatObject_8h.html" title="Definition of FlatObject class. " alt="" coords="575,556,675,583"/>
+<area shape="rect" id="node18" href="$d5/dde/TPCFastTransformGeo_8h.html" title="Definition of TPCFastTransformGeo class. " alt="" coords="247,481,423,508"/>
+<area shape="rect" id="node19" href="$d8/d93/TPCFastSpaceChargeCorrection_8h.html" title="Definition of TPCFastSpaceChargeCorrection class. " alt="" coords="425,310,663,337"/>
+<area shape="rect" id="node23" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="18,556,171,583"/>
+<area shape="rect" id="node10" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="135,631,278,657"/>
+<area shape="rect" id="node13" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="685,631,851,657"/>
+<area shape="rect" id="node15" href="$df/d5b/GPUCommonLogger_8h.html" title="GPUCommonLogger.h" alt="" coords="875,631,1039,657"/>
+<area shape="rect" id="node11" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="5,713,203,739"/>
+<area shape="rect" id="node12" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="227,713,392,739"/>
+<area shape="rect" id="node20" href="$dd/d27/Spline2D_8h.html" title="Definition of Spline2D class. " alt="" coords="498,399,590,426"/>
+<area shape="rect" id="node21" href="$de/da6/Spline1D_8h.html" title="Definition of Spline1D class. " alt="" coords="498,481,590,508"/>
+<area shape="rect" id="node33" href="$dc/d73/Cartesian_8h.html" title="MathUtils/Cartesian.h" alt="" coords="1551,631,1713,657"/>
+<area shape="rect" id="node43" href="$de/d41/PadPos_8h.html" title="TPCBase/PadPos.h" alt="" coords="1892,399,2033,426"/>
+<area shape="rect" id="node44" href="$dd/d0b/PadSecPos_8h.html" title="TPCBase/PadSecPos.h" alt="" coords="1369,310,1533,337"/>
+<area shape="rect" id="node47" href="$da/d61/PadROCPos_8h.html" title="TPCBase/PadROCPos.h" alt="" coords="1755,310,1925,337"/>
+<area shape="rect" id="node49" href="$d3/d54/DigitPos_8h.html" title="TPCBase/DigitPos.h" alt="" coords="1576,221,1725,247"/>
+<area shape="rect" id="node51" href="$d1/d1f/FECInfo_8h.html" title="TPCBase/FECInfo.h" alt="" coords="2268,481,2412,508"/>
+<area shape="rect" id="node53" href="$d6/d42/PartitionInfo_8h.html" title="TPCBase/PartitionInfo.h" alt="" coords="1801,221,1975,247"/>
+<area shape="rect" id="node32" href="$d1/da8/GPUROOTCartesianFwd_8h.html" title="GPUROOTCartesianFwd.h" alt="" coords="1737,631,1924,657"/>
+<area shape="rect" id="node46" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="1345,556,1557,583"/>
+<area shape="rect" id="node48" href="$dc/d14/ROC_8h.html" title="TPCBase/ROC.h" alt="" coords="1695,399,1817,426"/>
+<area shape="rect" id="node50" href="$df/d26/CRU_8h.html" title="TPCBase/CRU.h" alt="" coords="1608,310,1731,337"/>
+<area shape="rect" id="node55" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="2655,303,2852,344"/>
+<area shape="rect" id="node59" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="2859,213,3056,255"/>
+<area shape="rect" id="node64" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="3080,221,3333,247"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ConfigurableObjectDemo" name="ConfigurableObjectDemo">
+<area shape="rect" id="node2" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\l\&lt; configurableCut \&gt;\n||+ Configurable()\l}" alt="" coords="355,683,562,775"/>
+<area shape="rect" id="node3" href="$da/def/structo2_1_1framework_1_1ConfigurablePolicyConst.html" title="{o2::framework::Configurable\lPolicyConst\&lt; configurableCut \&gt;\n||+ ConfigurablePolicyConst()\l}" alt="" coords="223,528,454,620"/>
+<area shape="rect" id="node4" href="$da/d2f/structo2_1_1framework_1_1ConfigurableBase.html" title="{o2::framework::Configurable\lBase\&lt; configurableCut \&gt;\n||+ ConfigurableBase()\l}" alt="" coords="95,373,302,465"/>
+<area shape="rect" id="node5" href="$d8/d58/classconfigurableCut.html" title="{configurableCut\n||+ configurableCut()\l+ method()\l+ setCut()\l+ getCut()\l+ setState()\l+ getState()\l}" alt="" coords="5,160,155,311"/>
+<area shape="rect" id="node7" href="$da/d2f/structo2_1_1framework_1_1ConfigurableBase.html" title="{o2::framework::Configurable\lBase\&lt; T \&gt;\n||+ ConfigurableBase()\l}" alt="" coords="281,189,487,281"/>
+<area shape="rect" id="node9" href="$da/def/structo2_1_1framework_1_1ConfigurablePolicyConst.html" title="{o2::framework::Configurable\lPolicyConst\&lt; T \&gt;\n||+ ConfigurablePolicyConst()\l}" alt="" coords="326,373,533,465"/>
+<area shape="rect" id="node10" href="$d8/d71/structo2_1_1framework_1_1Configurable.html" title="{o2::framework::Configurable\l\&lt; T, IP \&gt;\n||+ Configurable()\l}" alt="" coords="478,528,685,620"/>
+</map>

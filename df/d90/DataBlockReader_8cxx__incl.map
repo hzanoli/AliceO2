@@ -1,0 +1,19 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/FT0/raw/src/DataBlockReader.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/FT0/raw/src/DataBlockReader.cxx">
+<area shape="rect" id="node2" href="$d2/dbb/DataBlockReader_8h.html" title="FT0Raw/DataBlockReader.h" alt="" coords="1209,124,1409,151"/>
+<area shape="rect" id="node6" href="$d6/d84/DataBlockRaw_8h.html" title="FT0Raw/DataBlockRaw.h" alt="" coords="1615,273,1798,300"/>
+<area shape="rect" id="node7" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="657,497,889,539"/>
+<area shape="rect" id="node14" href="$d0/d0a/DataFormats_2Detectors_2FIT_2FT0_2include_2DataFormatsFT0_2Digit_8h.html" title="DataFormatsFT0/Digit.h" alt="" coords="1095,423,1271,449"/>
+<area shape="rect" id="node20" href="$dc/d44/FIT_2FT0_2include_2DataFormatsFT0_2ChannelData_8h.html" title="DataFormatsFT0/ChannelData.h" alt="" coords="353,505,583,531"/>
+<area shape="rect" id="node23" href="$d4/dee/RAWDataHeader_8h.html" title="Definition of the RAW Data Header. " alt="" coords="1295,423,1494,449"/>
+<area shape="rect" id="node34" href="$da/d89/DigitBlockFT0_8h.html" title="FT0Raw/DigitBlockFT0.h" alt="" coords="1144,199,1323,225"/>
+<area shape="rect" id="node13" href="$d3/dcb/FT0_2include_2DataFormatsFT0_2RawEventData_8h.html" title="DataFormatsFT0/RawEventData.h" alt="" coords="1825,348,2066,375"/>
+<area shape="rect" id="node8" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1202,587,1369,613"/>
+<area shape="rect" id="node12" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="835,587,1088,613"/>
+<area shape="rect" id="node24" href="$dd/d1f/FT0_2include_2DataFormatsFT0_2LookUpTable_8h.html" title="DataFormatsFT0/LookUpTable.h" alt="" coords="1619,423,1847,449"/>
+<area shape="rect" id="node27" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="2201,423,2354,449"/>
+<area shape="rect" id="node15" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="1269,505,1549,531"/>
+<area shape="rect" id="node16" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="914,505,1163,531"/>
+<area shape="rect" id="node17" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="135,587,278,613"/>
+<area shape="rect" id="node18" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="5,661,203,688"/>
+<area shape="rect" id="node19" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="227,661,392,688"/>
+</map>

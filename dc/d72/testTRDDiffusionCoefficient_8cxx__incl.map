@@ -1,0 +1,12 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TRD/base/test/testTRDDiffusionCoefficient.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TRD/base/test/testTRDDiffusionCoefficient.cxx">
+<area shape="rect" id="node3" href="$da/d32/TRDCommonParam_8h.html" title="TRDBase/TRDCommonParam.h" alt="" coords="1805,131,2029,158"/>
+<area shape="rect" id="node6" href="$d9/dd4/TRDDiffAndTimeStructEstimator_8h.html" title="TRDBase/TRDDiffAndTimeStruct\lEstimator.h" alt="" coords="2235,124,2466,165"/>
+<area shape="rect" id="node8" href="$db/d4b/MagneticField_8h.html" title="Definition of the MagF class. " alt="" coords="2053,131,2211,158"/>
+<area shape="rect" id="node4" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1554,288,1721,315"/>
+<area shape="rect" id="node10" href="$d3/d91/MagFieldParam_8h.html" title="Definition of the MagFieldParam: container for ALICE mag. field parameters. " alt="" coords="1973,213,2139,240"/>
+<area shape="rect" id="node13" href="$dd/dfb/MagneticWrapperChebyshev_8h.html" title="Field/MagneticWrapperChebyshev.h" alt="" coords="2381,213,2633,240"/>
+<area shape="rect" id="node20" href="$da/df4/MagFieldFast_8h.html" title="Definition of the fast magnetic field parametrization MagFieldFast. " alt="" coords="1745,288,1895,315"/>
+<area shape="rect" id="node17" href="$d8/d64/Chebyshev3D_8h.html" title="MathUtils/Chebyshev3D.h" alt="" coords="2262,288,2453,315"/>
+<area shape="rect" id="node19" href="$d4/d08/Chebyshev3DCalc_8h.html" title="MathUtils/Chebyshev3DCalc.h" alt="" coords="2292,363,2511,389"/>
+<area shape="rect" id="node22" href="$dc/d73/Cartesian_8h.html" title="MathUtils/Cartesian.h" alt="" coords="1295,363,1457,389"/>
+</map>

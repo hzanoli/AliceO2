@@ -1,0 +1,20 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Analysis/DataModel/src/handleParamTPCBetheBloch.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Analysis/DataModel/src/handleParamTPCBetheBloch.cxx">
+<area shape="rect" id="node2" href="$dd/d3e/CcdbApi_8h.html" title="CCDB/CcdbApi.h" alt="" coords="417,273,545,300"/>
+<area shape="rect" id="node16" href="$d4/dca/BetheBloch_8h.html" title="Implementation for the TPC PID response of the BB parametrization. " alt="" coords="2525,124,2660,151"/>
+<area shape="rect" id="node59" href="$d0/d5c/TPCReso_8h.html" title="Implementation for the TPC PID response of the BB resolution. " alt="" coords="2709,124,2825,151"/>
+<area shape="rect" id="node9" href="$d4/dab/CcdbObjectInfo_8h.html" title="CCDB/CcdbObjectInfo.h" alt="" coords="5,355,180,382"/>
+<area shape="rect" id="node11" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="16,437,169,464"/>
+<area shape="rect" id="node17" href="$da/d96/TPC_2simulation_2include_2TPCSimulation_2Detector_8h.html" title="TPCSimulation/Detector.h" alt="" coords="2485,199,2673,225"/>
+<area shape="rect" id="node57" href="$d0/ded/ParamBase_8h.html" title="Set of utilities to handle the parametrization of the PID response for each detector These are the ba..." alt="" coords="2698,199,2863,225"/>
+<area shape="rect" id="node18" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="1448,273,1636,300"/>
+<area shape="rect" id="node41" href="$d4/de5/Point_8h.html" title="Class for TPC Point. " alt="" coords="2327,273,2493,300"/>
+<area shape="rect" id="node52" href="$d3/dd6/Sector_8h.html" title="TPCBase/Sector.h" alt="" coords="2703,273,2837,300"/>
+<area shape="rect" id="node23" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="1144,355,1385,382"/>
+<area shape="rect" id="node29" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="1989,437,2199,464"/>
+<area shape="rect" id="node35" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="2219,355,2433,382"/>
+<area shape="rect" id="node42" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="2457,348,2627,389"/>
+<area shape="rect" id="node43" href="$dc/d73/Cartesian_8h.html" title="MathUtils/Cartesian.h" alt="" coords="2814,437,2977,464"/>
+<area shape="rect" id="node53" href="$d0/dda/DataFormats_2Detectors_2TPC_2include_2DataFormatsTPC_2Constants_8h.html" title="DataFormatsTPC/Constants.h" alt="" coords="2701,355,2913,382"/>
+<area shape="rect" id="node54" href="$d1/d73/Defs_8h.html" title="DataFormatsTPC/Defs.h" alt="" coords="2983,355,3160,382"/>
+<area shape="rect" id="node56" href="$d1/da8/GPUROOTCartesianFwd_8h.html" title="GPUROOTCartesianFwd.h" alt="" coords="3001,437,3187,464"/>
+</map>

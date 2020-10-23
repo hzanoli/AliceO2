@@ -1,0 +1,28 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/TRD/simulation/src/Trap2CRU.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/TRD/simulation/src/Trap2CRU.cxx">
+<area shape="rect" id="node3" href="$d4/dee/RAWDataHeader_8h.html" title="Definition of the RAW Data Header. " alt="" coords="1083,534,1282,561"/>
+<area shape="rect" id="node5" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="473,437,705,479"/>
+<area shape="rect" id="node11" href="$d9/dbe/TRD_2include_2DataFormatsTRD_2TriggerRecord_8h.html" title="DataFormatsTRD/TriggerRecord.h" alt="" coords="468,355,705,382"/>
+<area shape="rect" id="node13" href="$de/d86/LinkRecord_8h.html" title="DataFormatsTRD/LinkRecord.h" alt="" coords="662,199,882,225"/>
+<area shape="rect" id="node14" href="$dc/d62/RawData_8h.html" title="DataFormatsTRD/RawData.h" alt="" coords="1071,273,1279,300"/>
+<area shape="rect" id="node16" href="$dd/df0/Tracklet64_8h.html" title="DataFormatsTRD/Tracklet64.h" alt="" coords="2660,273,2876,300"/>
+<area shape="rect" id="node20" href="$d6/dc2/DataFormats_2Detectors_2TRD_2include_2DataFormatsTRD_2Constants_8h.html" title="DataFormatsTRD/Constants.h" alt="" coords="3154,124,3369,151"/>
+<area shape="rect" id="node21" href="$d1/dec/HBFUtils_8h.html" title="DetectorsRaw/HBFUtils.h" alt="" coords="861,273,1046,300"/>
+<area shape="rect" id="node47" href="$da/d08/RawFileWriter_8h.html" title="Utility class to write detectors data to (multiple) raw data file(s) respecting CRU format..." alt="" coords="1895,199,2113,225"/>
+<area shape="rect" id="node54" href="$d3/d2d/Trap2CRU_8h.html" title="TRDSimulation/Trap2CRU.h" alt="" coords="1131,124,1330,151"/>
+<area shape="rect" id="node55" href="$d1/d1e/Common_2Utils_2include_2CommonUtils_2StringUtils_8h.html" title="CommonUtils/StringUtils.h" alt="" coords="3393,124,3588,151"/>
+<area shape="rect" id="node57" href="$da/d32/TRDCommonParam_8h.html" title="TRDBase/TRDCommonParam.h" alt="" coords="5,199,229,225"/>
+<area shape="rect" id="node6" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="185,534,351,561"/>
+<area shape="rect" id="node10" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="463,534,716,561"/>
+<area shape="rect" id="node12" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="169,445,449,471"/>
+<area shape="rect" id="node22" href="$d6/dec/Raw_2include_2DetectorsRaw_2RDHUtils_8h.html" title="DetectorsRaw/RDHUtils.h" alt="" coords="1221,355,1409,382"/>
+<area shape="rect" id="node37" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="1723,437,1920,479"/>
+<area shape="rect" id="node43" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="1484,348,1681,389"/>
+<area shape="rect" id="node46" href="$de/da4/Triggers_8h.html" title="Definition of the 32 Central Trigger System (CTS) Trigger Types defined in https://twiki.cern.ch/twiki/pub/ALICE/NoteForFEDevelopers/CTS_CRU_FE_interface.pdf. " alt="" coords="881,355,1095,382"/>
+<area shape="rect" id="node23" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1306,534,1449,561"/>
+<area shape="rect" id="node26" href="$d6/d89/RDHAny_8h.html" title="Headers/RDHAny.h" alt="" coords="1352,445,1496,471"/>
+<area shape="rect" id="node29" href="$d7/d34/DAQID_8h.html" title="Headers/DAQID.h" alt="" coords="2147,445,2282,471"/>
+<area shape="rect" id="node24" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="1381,616,1579,643"/>
+<area shape="rect" id="node25" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1192,616,1357,643"/>
+<area shape="rect" id="node30" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="2543,534,2713,561"/>
+<area shape="rect" id="node35" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="2360,616,2555,643"/>
+</map>

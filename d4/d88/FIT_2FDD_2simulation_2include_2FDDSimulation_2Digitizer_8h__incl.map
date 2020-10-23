@@ -1,0 +1,28 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/FDD/simulation/include/FDDSimulation/Digitizer.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/FDD/simulation/include/FDDSimulation/Digitizer.h">
+<area shape="rect" id="node2" href="$d8/df5/DataFormats_2Detectors_2FIT_2FDD_2include_2DataFormatsFDD_2Hit_8h.html" title="DataFormatsFDD/Hit.h" alt="" coords="1012,221,1180,247"/>
+<area shape="rect" id="node24" href="$d1/d18/FIT_2FDD_2include_2DataFormatsFDD_2ChannelData_8h.html" title="DataFormatsFDD/ChannelData.h" alt="" coords="2346,221,2579,247"/>
+<area shape="rect" id="node26" href="$d9/dc4/DataFormats_2Detectors_2FIT_2FDD_2include_2DataFormatsFDD_2Digit_8h.html" title="DataFormatsFDD/Digit.h" alt="" coords="3179,131,3359,158"/>
+<area shape="rect" id="node29" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="3577,213,3809,255"/>
+<area shape="rect" id="node32" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="3977,310,4231,337"/>
+<area shape="rect" id="node39" href="$d0/d73/DataFormats_2Detectors_2FIT_2FDD_2include_2DataFormatsFDD_2MCLabel_8h.html" title="DataFormatsFDD/MCLabel.h" alt="" coords="3477,131,3681,158"/>
+<area shape="rect" id="node41" href="$de/d77/FIT_2FDD_2simulation_2include_2FDDSimulation_2Detector_8h.html" title="FDDSimulation/Detector.h" alt="" coords="1897,131,2087,158"/>
+<area shape="rect" id="node60" href="$db/d14/MCTruthContainer_8h.html" title="Definition of a container to keep Monte Carlo truth external to simulation objects. " alt="" coords="4466,213,4635,255"/>
+<area shape="rect" id="node64" href="$d4/dd9/FDD_2simulation_2include_2FDDSimulation_2DigitizationParameters_8h.html" title="FDDSimulation/Digitization\lParameters.h" alt="" coords="4566,124,4765,165"/>
+<area shape="rect" id="node65" href="$d9/d15/Detectors_2FIT_2FDD_2base_2include_2FDDBase_2Constants_8h.html" title="FDDBase/Constants.h" alt="" coords="4660,221,4823,247"/>
+<area shape="rect" id="node68" href="$db/dac/RandomRing_8h.html" title="MathUtils/RandomRing.h" alt="" coords="4021,131,4203,158"/>
+<area shape="rect" id="node3" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="795,303,965,344"/>
+<area shape="rect" id="node15" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="989,310,1203,337"/>
+<area shape="rect" id="node4" href="$dc/d73/Cartesian_8h.html" title="MathUtils/Cartesian.h" alt="" coords="1424,392,1587,419"/>
+<area shape="rect" id="node16" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="264,392,475,419"/>
+<area shape="rect" id="node27" href="$de/d64/RangeReference_8h.html" title="Class to refer to the 1st entry and N elements of some group in the continuous container. " alt="" coords="2927,221,3207,247"/>
+<area shape="rect" id="node33" href="$df/d5d/common_2include_2CommonDataFormat_2TimeStamp_8h.html" title="CommonDataFormat/TimeStamp.h" alt="" coords="2603,221,2853,247"/>
+<area shape="rect" id="node28" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="3383,310,3550,337"/>
+<area shape="rect" id="node34" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="2915,310,3058,337"/>
+<area shape="rect" id="node35" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="2888,392,3085,419"/>
+<area shape="rect" id="node36" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="2699,392,2864,419"/>
+<area shape="rect" id="node40" href="$d7/dcd/MCCompLabel_8h.html" title="SimulationDataFormat\l/MCCompLabel.h" alt="" coords="3383,213,3553,255"/>
+<area shape="rect" id="node42" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="1898,221,2086,247"/>
+<area shape="rect" id="node58" href="$de/d71/FIT_2FDD_2base_2include_2FDDBase_2Geometry_8h.html" title="FDDBase/Geometry.h" alt="" coords="2111,221,2271,247"/>
+<area shape="rect" id="node49" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="1662,310,1903,337"/>
+<area shape="rect" id="node66" href="$d3/d9d/PhysicsConstants_8h.html" title="Header to collect physics constants. " alt="" coords="4803,310,5079,337"/>
+</map>

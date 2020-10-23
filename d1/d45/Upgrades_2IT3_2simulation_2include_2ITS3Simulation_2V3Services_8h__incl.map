@@ -1,0 +1,26 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/Upgrades/IT3/simulation/include/ITS3Simulation/V3Services.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/Upgrades/IT3/simulation/include/ITS3Simulation/V3Services.h">
+<area shape="rect" id="node4" href="$d5/df4/Upgrades_2IT3_2simulation_2include_2ITS3Simulation_2V11Geometry_8h.html" title="ITS3Simulation/V11Geometry.h" alt="" coords="1470,213,1694,240"/>
+<area shape="rect" id="node7" href="$d0/da0/Upgrades_2IT3_2simulation_2include_2ITS3Simulation_2Detector_8h.html" title="ITS3Simulation/Detector.h" alt="" coords="2956,139,3146,165"/>
+<area shape="rect" id="node9" href="$db/dcc/Detectors_2Base_2include_2DetectorsBase_2GeometryManager_8h.html" title="DetectorsBase/GeometryManager.h" alt="" coords="1956,213,2210,240"/>
+<area shape="rect" id="node14" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="2886,288,3114,329"/>
+<area shape="rect" id="node54" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="3957,295,4145,322"/>
+<area shape="rect" id="node73" href="$d9/d4e/Detectors_2ITSMFT_2common_2simulation_2include_2ITSMFTSimulation_2Hit_8h.html" title="ITSMFTSimulation/Hit.h" alt="" coords="3902,213,4075,240"/>
+<area shape="rect" id="node41" href="$dc/d73/Cartesian_8h.html" title="MathUtils/Cartesian.h" alt="" coords="990,377,1152,404"/>
+<area shape="rect" id="node51" href="$db/dba/MatCell_8h.html" title="Declarations for material properties of the cell (voxel) " alt="" coords="1774,295,1957,322"/>
+<area shape="rect" id="node21" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="2727,377,2858,404"/>
+<area shape="rect" id="node33" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="2933,377,3102,404"/>
+<area shape="rect" id="node22" href="$de/def/bitOps_8h.html" title="MathUtils/detail/bitOps.h" alt="" coords="2578,459,2761,486"/>
+<area shape="rect" id="node23" href="$d3/dfc/StatAccumulator_8h.html" title="MathUtils/detail/StatAccumulator.h" alt="" coords="2306,459,2554,486"/>
+<area shape="rect" id="node25" href="$dd/d7d/trigonometric_8h.html" title="MathUtils/detail/trigonometric.h" alt="" coords="2052,459,2282,486"/>
+<area shape="rect" id="node27" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="2001,631,2144,657"/>
+<area shape="rect" id="node30" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="2110,549,2264,575"/>
+<area shape="rect" id="node32" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="1776,549,2035,575"/>
+<area shape="rect" id="node28" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="1871,705,2068,732"/>
+<area shape="rect" id="node29" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="2092,705,2258,732"/>
+<area shape="rect" id="node38" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="2927,459,3122,486"/>
+<area shape="rect" id="node52" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="1786,377,1953,404"/>
+<area shape="rect" id="node59" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="4437,377,4678,404"/>
+<area shape="rect" id="node64" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="4874,459,5084,486"/>
+<area shape="rect" id="node70" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="4754,377,4967,404"/>
+<area shape="rect" id="node74" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="2590,288,2760,329"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/Raw/src/SimpleRawReader.cxx" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/Raw/src/SimpleRawReader.cxx">
+<area shape="rect" id="node2" href="$dd/da4/Logger_8h.html" title="Framework/Logger.h" alt="" coords="1458,124,1611,151"/>
+<area shape="rect" id="node4" href="$d6/dad/SimpleRawReader_8h.html" title="Definition of the simple reader for non&#45;DPL tests. " alt="" coords="1686,124,1932,151"/>
+<area shape="rect" id="node37" href="$d6/d28/SimpleSTF_8h.html" title="Mocked STF with InputRecord for standalone tests (improved version of Matthias&#39; structure in the test..." alt="" coords="2378,124,2573,151"/>
+<area shape="rect" id="node93" href="$d1/dec/HBFUtils_8h.html" title="DetectorsRaw/HBFUtils.h" alt="" coords="883,423,1068,449"/>
+<area shape="rect" id="node5" href="$de/da2/Raw_2include_2DetectorsRaw_2RawFileReader_8h.html" title="DetectorsRaw/RawFileReader.h" alt="" coords="1698,423,1920,449"/>
+<area shape="rect" id="node14" href="$d4/dee/RAWDataHeader_8h.html" title="Definition of the RAW Data Header. " alt="" coords="1478,683,1676,710"/>
+<area shape="rect" id="node16" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="5944,683,6114,710"/>
+<area shape="rect" id="node25" href="$d6/dec/Raw_2include_2DetectorsRaw_2RDHUtils_8h.html" title="DetectorsRaw/RDHUtils.h" alt="" coords="1039,505,1227,531"/>
+<area shape="rect" id="node23" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="5208,765,5402,792"/>
+<area shape="rect" id="node26" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="1210,683,1352,710"/>
+<area shape="rect" id="node29" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="916,683,1083,710"/>
+<area shape="rect" id="node30" href="$d6/d89/RDHAny_8h.html" title="Headers/RDHAny.h" alt="" coords="1369,594,1513,621"/>
+<area shape="rect" id="node32" href="$d9/d80/InteractionRecord_8h.html" title="CommonDataFormat/Interaction\lRecord.h" alt="" coords="860,587,1092,628"/>
+<area shape="rect" id="node36" href="$d7/d34/DAQID_8h.html" title="Headers/DAQID.h" alt="" coords="2100,594,2235,621"/>
+<area shape="rect" id="node27" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="1321,765,1518,792"/>
+<area shape="rect" id="node28" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="1132,765,1297,792"/>
+<area shape="rect" id="node35" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="638,683,892,710"/>
+<area shape="rect" id="node39" href="$d5/d19/InputRoute_8h.html" title="Framework/InputRoute.h" alt="" coords="7188,348,7368,375"/>
+<area shape="rect" id="node63" href="$d6/d5c/InputRecord_8h.html" title="Framework/InputRecord.h" alt="" coords="6288,199,6474,225"/>
+<area shape="rect" id="node40" href="$d2/dd9/ExpirationHandler_8h.html" title="Framework/ExpirationHandler.h" alt="" coords="7325,423,7552,449"/>
+<area shape="rect" id="node44" href="$d5/d3f/InputSpec_8h.html" title="Framework/InputSpec.h" alt="" coords="6354,423,6528,449"/>
+<area shape="rect" id="node41" href="$dc/dca/Lifetime_8h.html" title="Framework/Lifetime.h" alt="" coords="5671,594,5835,621"/>
+<area shape="rect" id="node42" href="$d7/d87/RoutingIndices_8h.html" title="Framework/RoutingIndices.h" alt="" coords="7481,505,7686,531"/>
+<area shape="rect" id="node45" href="$d0/d1b/ConcreteDataMatcher_8h.html" title="Framework/ConcreteDataMatcher.h" alt="" coords="6113,594,6364,621"/>
+<area shape="rect" id="node46" href="$d3/da3/DataDescriptorMatcher_8h.html" title="Framework/DataDescriptor\lMatcher.h" alt="" coords="6479,497,6675,539"/>
+<area shape="rect" id="node55" href="$d0/d1c/ConfigParamSpec_8h.html" title="Framework/ConfigParamSpec.h" alt="" coords="6971,505,7194,531"/>
+<area shape="rect" id="node47" href="$d6/dc9/DataProcessingHeader_8h.html" title="Framework/DataProcessing\lHeader.h" alt="" coords="7003,587,7202,628"/>
+<area shape="rect" id="node49" href="$d1/d76/RuntimeError_8h.html" title="Framework/RuntimeError.h" alt="" coords="6446,683,6641,710"/>
+<area shape="rect" id="node50" href="$d4/d00/Headers_2include_2Headers_2Stack_8h.html" title="Headers/Stack.h" alt="" coords="5860,594,5988,621"/>
+<area shape="rect" id="node51" href="$dc/d03/MemoryResources_8h.html" title="MemoryResources/MemoryResources.h" alt="" coords="4940,683,5216,710"/>
+<area shape="rect" id="node56" href="$de/d56/Variant_8h.html" title="Framework/Variant.h" alt="" coords="7276,594,7432,621"/>
+<area shape="rect" id="node64" href="$d5/dfb/DataRef_8h.html" title="Framework/DataRef.h" alt="" coords="6724,348,6886,375"/>
+<area shape="rect" id="node65" href="$d5/db8/DataRefUtils_8h.html" title="Framework/DataRefUtils.h" alt="" coords="5217,273,5409,300"/>
+<area shape="rect" id="node70" href="$d0/d95/TypeTraits_8h.html" title="Framework/TypeTraits.h" alt="" coords="4895,505,5070,531"/>
+<area shape="rect" id="node71" href="$db/d31/Traits_8h.html" title="Framework/Traits.h" alt="" coords="2615,594,2760,621"/>
+<area shape="rect" id="node75" href="$d7/d91/BoostSerializer_8h.html" title="Templatised boost serializer/deserializer for containers and base types. " alt="" coords="3556,505,3780,531"/>
+<area shape="rect" id="node90" href="$da/d0f/InputSpan_8h.html" title="Framework/InputSpan.h" alt="" coords="6972,273,7147,300"/>
+<area shape="rect" id="node91" href="$dc/d03/TableConsumer_8h.html" title="Framework/TableConsumer.h" alt="" coords="7628,273,7838,300"/>
+<area shape="rect" id="node66" href="$db/dff/RootSerializationSupport_8h.html" title="Framework/RootSerialization\lSupport.h" alt="" coords="5134,497,5342,539"/>
+<area shape="rect" id="node69" href="$d1/d53/SerializationMethods_8h.html" title="Type wrappers for enfording a specific serialization method. " alt="" coords="4995,423,5242,449"/>
+<area shape="rect" id="node86" href="$d6/d68/DataSpecUtils_8h.html" title="Framework/DataSpecUtils.h" alt="" coords="5736,348,5938,375"/>
+<area shape="rect" id="node89" href="$d1/d00/CheckTypes_8h.html" title="Framework/CheckTypes.h" alt="" coords="5004,348,5190,375"/>
+<area shape="rect" id="node67" href="$d8/d3c/TMessageSerializer_8h.html" title="Framework/TMessageSerializer.h" alt="" coords="5121,594,5356,621"/>
+<area shape="rect" id="node87" href="$db/d2d/OutputSpec_8h.html" title="Framework/OutputSpec.h" alt="" coords="5879,505,6064,531"/>
+<area shape="rect" id="node88" href="$d3/ddf/Output_8h.html" title="Framework/Output.h" alt="" coords="5649,505,5804,531"/>
+<area shape="rect" id="node94" href="$db/d2c/ConfigurableParam_8h.html" title="CommonUtils/Configurable\lParam.h" alt="" coords="337,587,534,628"/>
+<area shape="rect" id="node98" href="$da/d6b/ConfigurableParamHelper_8h.html" title="CommonUtils/Configurable\lParamHelper.h" alt="" coords="260,497,457,539"/>
+<area shape="rect" id="node100" href="$de/da4/Triggers_8h.html" title="Definition of the 32 Central Trigger System (CTS) Trigger Types defined in https://twiki.cern.ch/twiki/pub/ALICE/NoteForFEDevelopers/CTS_CRU_FE_interface.pdf. " alt="" coords="1252,505,1465,531"/>
+</map>

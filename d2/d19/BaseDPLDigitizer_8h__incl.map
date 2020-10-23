@@ -1,0 +1,42 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/Base/include/DetectorsBase/BaseDPLDigitizer.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/Base/include/DetectorsBase/BaseDPLDigitizer.h">
+<area shape="rect" id="node2" href="$d4/d2b/InitContext_8h.html" title="Framework/InitContext.h" alt="" coords="3103,124,3286,151"/>
+<area shape="rect" id="node3" href="$d2/df9/Propagator_8h.html" title="DetectorsBase/Propagator.h" alt="" coords="3310,124,3513,151"/>
+<area shape="rect" id="node72" href="$de/d28/GRPObject_8h.html" title="Header of the General Run Parameters object. " alt="" coords="5802,645,5982,687"/>
+<area shape="rect" id="node5" href="$d3/d9d/PhysicsConstants_8h.html" title="Header to collect physics constants. " alt="" coords="292,653,568,679"/>
+<area shape="rect" id="node6" href="$d7/d8b/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2Track_8h.html" title="ReconstructionDataFormats\l/Track.h" alt="" coords="3402,288,3605,329"/>
+<area shape="rect" id="node64" href="$d7/d99/DCA_8h.html" title="ReconstructionDataFormats\l/DCA.h" alt="" coords="3192,735,3394,776"/>
+<area shape="rect" id="node65" href="$d6/db1/TrackLTIntegral_8h.html" title="Track Length and TOF integral. " alt="" coords="409,199,612,240"/>
+<area shape="rect" id="node66" href="$d9/da9/MatLayerCylSet_8h.html" title="Declarations for the wrapper for the set of cylindrical material layers. " alt="" coords="5128,556,5330,597"/>
+<area shape="rect" id="node7" href="$d2/d98/TrackParametrization_8h.html" title="ReconstructionDataFormats\l/TrackParametrization.h" alt="" coords="3432,467,3634,508"/>
+<area shape="rect" id="node63" href="$d3/d30/TrackParametrizationWithError_8h.html" title="ReconstructionDataFormats\l/TrackParametrizationWithError.h" alt="" coords="3497,377,3732,419"/>
+<area shape="rect" id="node8" href="$d2/d45/GPUCommonRtypes_8h.html" title="GPUCommonRtypes.h" alt="" coords="791,913,958,940"/>
+<area shape="rect" id="node16" href="$d4/de2/BaseCluster_8h.html" title="ReconstructionDataFormats\l/BaseCluster.h" alt="" coords="2760,556,2962,597"/>
+<area shape="rect" id="node40" href="$d9/d52/Common_2MathUtils_2include_2MathUtils_2Utils_8h.html" title="MathUtils/Utils.h" alt="" coords="4134,831,4265,858"/>
+<area shape="rect" id="node49" href="$d6/d84/MathConstants_8h.html" title="useful math constants " alt="" coords="3944,988,4202,1015"/>
+<area shape="rect" id="node56" href="$d8/d77/Primitive2D_8h.html" title="Declarations of 2D primitives. " alt="" coords="592,653,770,679"/>
+<area shape="rect" id="node60" href="$d5/d08/DataFormats_2Reconstruction_2include_2ReconstructionDataFormats_2PID_8h.html" title="ReconstructionDataFormats\l/PID.h" alt="" coords="333,556,536,597"/>
+<area shape="rect" id="node61" href="$d2/d97/TrackUtils_8h.html" title="ReconstructionDataFormats\l/TrackUtils.h" alt="" coords="3648,735,3850,776"/>
+<area shape="rect" id="node62" href="$d1/da8/GPUROOTCartesianFwd_8h.html" title="GPUROOTCartesianFwd.h" alt="" coords="3586,563,3773,590"/>
+<area shape="rect" id="node17" href="$dc/d73/Cartesian_8h.html" title="MathUtils/Cartesian.h" alt="" coords="2413,742,2576,769"/>
+<area shape="rect" id="node30" href="$d4/d20/DetMatrixCache_8h.html" title="DetectorsCommonDataFormats\l/DetMatrixCache.h" alt="" coords="2838,645,3066,687"/>
+<area shape="rect" id="node31" href="$df/d5b/GPUCommonLogger_8h.html" title="GPUCommonLogger.h" alt="" coords="2944,913,3108,940"/>
+<area shape="rect" id="node35" href="$d6/d31/DetID_8h.html" title="DetectorsCommonDataFormats\l/DetID.h" alt="" coords="3908,735,4136,776"/>
+<area shape="rect" id="node50" href="$dc/dcd/DataHeader_8h.html" title="Headers/DataHeader.h" alt="" coords="4720,831,4890,858"/>
+<area shape="rect" id="node41" href="$de/def/bitOps_8h.html" title="MathUtils/detail/bitOps.h" alt="" coords="4096,913,4279,940"/>
+<area shape="rect" id="node42" href="$d3/dfc/StatAccumulator_8h.html" title="MathUtils/detail/StatAccumulator.h" alt="" coords="3520,913,3768,940"/>
+<area shape="rect" id="node44" href="$dd/d7d/trigonometric_8h.html" title="MathUtils/detail/trigonometric.h" alt="" coords="3792,913,4021,940"/>
+<area shape="rect" id="node45" href="$df/d21/GPUCommonDef_8h.html" title="GPUCommonDef.h" alt="" coords="5540,1063,5683,1089"/>
+<area shape="rect" id="node48" href="$d6/da2/GPUCommonMath_8h.html" title="GPUCommonMath.h" alt="" coords="5260,988,5414,1015"/>
+<area shape="rect" id="node46" href="$d5/d93/GPUCommonDefSettings_8h.html" title="GPUCommonDefSettings.h" alt="" coords="5410,1137,5608,1164"/>
+<area shape="rect" id="node47" href="$da/d5a/GPUCommonDefAPI_8h.html" title="GPUCommonDefAPI.h" alt="" coords="5632,1137,5797,1164"/>
+<area shape="rect" id="node54" href="$d7/df8/Types_8h.html" title="MemoryResources/Types.h" alt="" coords="4354,913,4549,940"/>
+<area shape="rect" id="node57" href="$d6/d9b/CircleXY_8h.html" title="MathUtils/detail/CircleXY.h" alt="" coords="394,831,586,858"/>
+<area shape="rect" id="node58" href="$da/d66/IntervalXY_8h.html" title="MathUtils/detail/IntervalXY.h" alt="" coords="248,742,453,769"/>
+<area shape="rect" id="node59" href="$d4/d5d/Bracket_8h.html" title="Class to represent an interval and some operations over it. " alt="" coords="528,742,719,769"/>
+<area shape="rect" id="node67" href="$da/df3/MatLayerCyl_8h.html" title="Declarations for single cylindrical material layer class. " alt="" coords="5164,742,5379,769"/>
+<area shape="rect" id="node68" href="$db/dff/FlatObject_8h.html" title="Definition of FlatObject class. " alt="" coords="5114,831,5214,858"/>
+<area shape="rect" id="node71" href="$d4/d1b/Ray_8h.html" title="DetectorsBase/Ray.h" alt="" coords="5164,653,5320,679"/>
+<area shape="rect" id="node70" href="$db/dba/MatCell_8h.html" title="Declarations for material properties of the cell (voxel) " alt="" coords="5391,831,5574,858"/>
+<area shape="rect" id="node74" href="$d4/dc6/LHCConstants_8h.html" title="Header to collect LHC related constants. " alt="" coords="5852,742,6105,769"/>
+<area shape="rect" id="node75" href="$da/d58/Units_8h.html" title="Header to collect definitions for different units. " alt="" coords="6129,742,6297,769"/>
+</map>

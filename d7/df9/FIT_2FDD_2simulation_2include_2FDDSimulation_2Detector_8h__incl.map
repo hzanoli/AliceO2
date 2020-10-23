@@ -1,0 +1,10 @@
+<map id="/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/FDD/simulation/include/FDDSimulation/Detector.h" name="/home/travis/build/AliceO2Group/AliceO2/Detectors/FIT/FDD/simulation/include/FDDSimulation/Detector.h">
+<area shape="rect" id="node2" href="$d4/d25/BaseHits_8h.html" title="SimulationDataFormat\l/BaseHits.h" alt="" coords="1649,199,1818,240"/>
+<area shape="rect" id="node14" href="$d1/d3a/Base_2include_2DetectorsBase_2Detector_8h.html" title="DetectorsBase/Detector.h" alt="" coords="1842,206,2030,233"/>
+<area shape="rect" id="node38" href="$d8/df5/DataFormats_2Detectors_2FIT_2FDD_2include_2DataFormatsFDD_2Hit_8h.html" title="DataFormatsFDD/Hit.h" alt="" coords="1985,124,2153,151"/>
+<area shape="rect" id="node40" href="$de/d71/FIT_2FDD_2base_2include_2FDDBase_2Geometry_8h.html" title="FDDBase/Geometry.h" alt="" coords="833,206,993,233"/>
+<area shape="rect" id="node3" href="$dc/d73/Cartesian_8h.html" title="MathUtils/Cartesian.h" alt="" coords="823,288,985,315"/>
+<area shape="rect" id="node21" href="$d0/d9a/MaterialManager_8h.html" title="DetectorsBase/MaterialManager.h" alt="" coords="2235,288,2477,315"/>
+<area shape="rect" id="node28" href="$de/d61/ShmManager_8h.html" title="CommonUtils/ShmManager.h" alt="" coords="2405,370,2616,397"/>
+<area shape="rect" id="node34" href="$d0/d91/ShmAllocator_8h.html" title="CommonUtils/ShmAllocator.h" alt="" coords="2704,288,2917,315"/>
+</map>
