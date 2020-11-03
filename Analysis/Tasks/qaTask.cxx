@@ -264,7 +264,6 @@ struct QATrackingKine {
   }
 };
 
-
 /// Task to evaluate the tracking resolution (Pt, Eta, Phi and impact parameter)
 struct QATrackingResolution {
   o2fw::Configurable<bool> setupHistogramAxisForMatplotlib{
@@ -296,7 +295,7 @@ struct QATrackingResolution {
   o2fw::Configurable<int> nBinsImpactParameter{"nBinsImpactParameter", 1000,
                                                "Number of bins for the Impact parameter"};
 
-  std::array<double, 2> impactParameterRange = {-1500, 1500};           // micrometer
+  std::array<double, 2> impactParameterRange = {-1500, 1500};       // micrometer
   std::array<double, 2> impactParameterResolutionRange = {0, 1000}; // micrometer
 
   // Eta resolution
